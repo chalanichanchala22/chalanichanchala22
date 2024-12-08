@@ -1,4 +1,4 @@
-<h1 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture> Hi 👋, I'm Chalani Chanchala  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture> Hi 👋, I'm Chalani Chanchala  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="100"></h1>
 
 ## <picture  align="right"><img src ="https://64.media.tumblr.com/af37d261b71ff7aa140c47b131bac4cc/tumblr_o32dd2y7P61qd7ro1o1_1280.gif?raw=true" width = 100%></picture> 
 <h3 align="left">I'm a passionate Computer Science Undergraduate exploring the fascinating world of technology and development. Welcome to my GitHub profile, where I showcase my learning journey, projects, and experiments!</h3>
@@ -8,7 +8,7 @@
 
 
 ---
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100px">&nbsp;***My working tools...***</h2>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100px">&nbsp;My working tools...</h2>
 <ul>
   <li>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
