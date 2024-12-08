@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Chalani Chanchala</h1>
+<h1 align="center">Hi 👋, I'm Chalani Chanchala  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <h3 align="center">I'm a passionate Computer Science Undergraduate exploring the fascinating world of technology and development. Welcome to my GitHub profile, where I showcase my learning journey, projects, and experiments!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chalanichanchala22&label=Profile%20views&color=0e75b6&style=flat" alt="chalanichanchala22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chalanichanchala22" alt="chalanichanchala22" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chalanichanchala22&label=Profile%20views&color=0e75b6&style=flat" alt="chalanichanchala22" /> </p>
 
 
+
+---
 <h3 align="left">Languages and Tools:</h3>
 <ul>
   <li>
