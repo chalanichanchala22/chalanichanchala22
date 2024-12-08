@@ -8,7 +8,7 @@
 
 
 ---
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100px">&nbsp;***My working tools...***</h2>
 <ul>
   <li>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -114,18 +114,18 @@
   </li>
 </ul>
 
-
+ <h2><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;Git Hub Status<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chalanichanchala22&show_icons=true&locale=en&layout=compact" alt="chalanichanchala22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chalanichanchala22&show_icons=true&locale=en" alt="chalanichanchala22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chalanichanchala22&" alt="chalanichanchala22" /></p>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<h2>Git profile Trophies<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="100px" />&nbsp;</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=chalanichanchala22&theme=juicyfresh&no-bg=true" />
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2>Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://linkedin.com/in/chalani-chanchala-b781ab246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chalani-chanchala-b781ab246" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/chalanichanchala-s3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chalanichanchala-s3k" height="30" width="40" /></a>
