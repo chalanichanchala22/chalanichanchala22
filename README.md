@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Chalani Chanchala  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
-<h3 align="center">I'm a passionate Computer Science Undergraduate exploring the fascinating world of technology and development. Welcome to my GitHub profile, where I showcase my learning journey, projects, and experiments!</h3>
+<h1 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture> Hi 👋, I'm Chalani Chanchala  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+
+## <picture  align="right"><img src ="https://64.media.tumblr.com/af37d261b71ff7aa140c47b131bac4cc/tumblr_o32dd2y7P61qd7ro1o1_1280.gif?raw=true" width = 100%></picture> 
+<h3 align="left">I'm a passionate Computer Science Undergraduate exploring the fascinating world of technology and development. Welcome to my GitHub profile, where I showcase my learning journey, projects, and experiments!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chalanichanchala22&label=Profile%20views&color=0e75b6&style=flat" alt="chalanichanchala22" /> </p>
 
 
 
 ---
-<h3 align="left">Languages and Tools:</h3>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <ul>
   <li>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -119,9 +121,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chalanichanchala22&" alt="chalanichanchala22" /></p>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=chalanichanchala22&theme=juicyfresh&no-bg=true" />
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://linkedin.com/in/chalani-chanchala-b781ab246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chalani-chanchala-b781ab246" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/chalanichanchala-s3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chalanichanchala-s3k" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chalanichanchal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chalanichanchal2" height="30" width="40" /></a>
 </p>
+
+Credit: [Chalani Chanchala](https://github.com/chalanichanchala22)
