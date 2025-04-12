@@ -128,7 +128,6 @@
 <h2>Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://linkedin.com/in/chalani-chanchala-b781ab246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chalani-chanchala-b781ab246" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chalanichanchala-s3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chalanichanchala-s3k" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chalanichanchal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chalanichanchal2" height="30" width="40" /></a>
 </p>
 
